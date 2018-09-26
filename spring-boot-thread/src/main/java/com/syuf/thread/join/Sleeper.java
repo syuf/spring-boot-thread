@@ -18,6 +18,6 @@ public class Sleeper extends Thread {
 			System.out.println(getName() + " was interrupted,isInterrupted():" + isInterrupted());
 			return;
 		}
-		System.out.println(getName() + " has awakened was interrupted");
+		System.out.println(getName() + " has awakened");
 	}
 }
