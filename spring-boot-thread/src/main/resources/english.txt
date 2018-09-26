@@ -1,0 +1,16 @@
+Destination  [ˌdɛstəˈneʃən]  目的，目标;目的地，终点;[罕用语]预定，指定
+Instance  [ˈɪnstəns] 情况;例子，实例;要求，建议;[法]诉讼手续
+executor  [ɪɡˈzɛkjətɚ, ˈɛksɪˌkjutɚ]  遗嘱执行人;执行者;实行者
+Priority [praɪˈɔ:rəti]  优先，优先权;（时间，序上的）先，前;优先考虑的事;[数]优先次序
+yield  [jild] 放弃，屈服;生利;退让，退位
+daemon ['di:mən]  守护进程
+Infinity  [ɪnˈfɪnɪti] 无穷
+spawn [spɔn] （鱼、蛙等的）子，卵;（裂殖菌类植物的）丝，菌;产物，结果
+interrupt [ˌɪntəˈrʌpt] 中断;打扰;暂停;妨碍
+awakened  [əˈwek]d 使）觉醒;弄醒;（使）意识到
+volatile  [ˈvɑ:lətl] 易变的，不稳定的;（液体或油）易挥发的;爆炸性的;快活的，轻快的
+caught [kɔt] 引起;赶上;抓住了
+Mutex [m'ju:teks] 互斥
+Reentrant  [rɪ'entrənt] 可重入的
+captured  [ˈkæptʃɚ]d 捕获
+acquired [əˈkwaɪrd] 获得
