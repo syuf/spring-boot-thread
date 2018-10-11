@@ -14,3 +14,6 @@ Mutex [m'ju:teks] 互斥
 Reentrant  [rɪ'entrənt] 可重入的
 captured  [ˈkæptʃɚ]d 捕获
 acquired [əˈkwaɪrd] 获得
+assignment  [əˈsaɪnmənt] 分给，分配;任务，工作，
+tank  [tæŋk] 坦克;油[水]箱;贮水池;酒量大的人
+peeler [ˈpilɚ] 削皮机
