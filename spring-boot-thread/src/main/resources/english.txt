@@ -17,3 +17,9 @@ acquired [əˈkwaɪrd] 获得
 assignment  [əˈsaɪnmənt] 分给，分配;任务，工作，
 tank  [tæŋk] 坦克;油[水]箱;贮水池;酒量大的人
 peeler [ˈpilɚ] 削皮机
+Arguments ['ɑ:ɡjʊmənts] 争论
+Increment [ˈɪnkrəmənt, ˈɪŋ-] 增量
+duplicate  [ˈdu:plɪkeɪt] 重复;复制;复印
+Aborting  [ə'bɔ:tɪŋ] （使）流产( abort的现在分词 );（使）（某事物）中止;（因故障等而）（使）（飞机、宇宙飞船、导弹等）中断飞行;（使）（飞行任务等）中途失败
+pair  [per] 一副;一对男女;套在一起的两匹马;雌雄成对的动物vt.& vi.（使…）成对，（使…）成双 vi.交配，交尾
+Manipulator [məˈnɪpjuleɪtər] 操作者，操纵者，操纵器;翻钢机;推床;电键
