@@ -1,8 +1,5 @@
 package com.syuf.thread.exception;
 
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
-
 public class ExceptionThread2 implements Runnable{
 
 	@Override

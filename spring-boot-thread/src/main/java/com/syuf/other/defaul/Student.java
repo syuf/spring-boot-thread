@@ -17,5 +17,6 @@ public class Student extends Person{
 		s.run();
 		Person p = new Person();
 		Person.docter d = p.new docter();
+		System.out.println(d);
 	}
 }
